@@ -4,7 +4,7 @@
 name: 签到
 
 on:
-  push:
+  push:8.30
     branches:
       - main
   schedule:
